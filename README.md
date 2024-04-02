@@ -4,7 +4,7 @@ This is a simple website with a full-screen background image and a headline. The
 
 ## Live Demo
 
-You can visit the live demo of the website at https://abhishek1061.github.io/HomePage_MiniProject/.
+You can visit the live demo of the website by clicking [here](https://abhishek1061.github.io/HomePage_MiniProject/).
 
 ## HTML
 
